@@ -1,0 +1,28 @@
+/*.first-line::first-letter{
+    color: blueviolet;
+}
+*/
+
+p::first-line{
+    color: red;
+}
+
+p::first-letter{
+    color: blue;
+}
+
+
+li::marker{
+    color: greenyellow;
+    font-size: 50px;
+}
+
+h2::before{
+    content: url(./imagens/botao-marked.png);
+
+}
+
+h2::after{
+    content: url(./imagens/botao-marked.png);
+}
+

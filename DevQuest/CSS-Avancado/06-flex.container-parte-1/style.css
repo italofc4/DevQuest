@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+   /* flex-direction: row;  
+    flex-wrap: wrap;*/
+    flex-flow: row wrap;
+    
+}
+
+.container div{
+    width: 100px;
+    height: 100px;
+    color: yellow;
+    background-color: green;
+    margin: 10px;
+}

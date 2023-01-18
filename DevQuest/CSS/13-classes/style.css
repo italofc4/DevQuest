@@ -1,0 +1,16 @@
+
+.produto {
+background-color: aquamarine;
+}
+
+.descricao {
+padding: 40px red;
+}
+
+.preco {
+font-size: 50px;
+}
+
+.promocao {
+   border: solid red;
+}

@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    max-width: 400px;
+    border: 1px solid rgb(160, 34, 154);
+}
+
+.item {
+    background-color: rgb(211, 167, 252);
+    color: blueviolet;
+    font-size: 20px;
+    margin: 5px;
+
+    text-align: center;
+
+    flex: 1
+}

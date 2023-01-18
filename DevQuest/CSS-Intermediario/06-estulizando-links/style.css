@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Milky';
+    src: url('./fontes/fonts/MilkyNice.otf') , url('./fontes/fonts/MilkyNice.ttf') ;
+}
+
+a{
+    font-family: 'Milky',Helvetica, sans-serif;
+    font-weight: 200;
+
+    cursor: progress;
+    margin: 20px;
+    padding: 10px;
+
+    
+}
+
+a:visited{
+    color: orangered;
+}
+
+a:active{
+    color: red;
+}
+
+a:hover{
+    background-color: red;
+    color: white;
+}

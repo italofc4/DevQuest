@@ -1,0 +1,11 @@
+abra o gitbash
+
+configurar username
+git config --global user.user "Italo Araujo"
+
+configurar email:
+git config --global user.email (italofca.ia@gmail.com)
+
+testa a config
+git config --list
+	

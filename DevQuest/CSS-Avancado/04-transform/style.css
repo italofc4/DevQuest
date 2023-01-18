@@ -1,0 +1,21 @@
+img {
+    width: 200px;
+}
+
+h2{
+    font-size: 30px;
+    color: aqua;
+}
+
+
+img.scale{
+    transform: scaleX(2);
+}
+
+img.rotate{
+    transform: rotate(45deg);
+}
+
+img.translate{
+    transform: translate(50px, 20px);
+}

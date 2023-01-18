@@ -1,0 +1,15 @@
+/*reset padrão */
+* {
+    margin: 0;
+}
+
+
+p {
+    margin: 20px;
+    padding: 20px;
+
+    border: solid green 10px;
+
+    background-color: aqua;
+
+}

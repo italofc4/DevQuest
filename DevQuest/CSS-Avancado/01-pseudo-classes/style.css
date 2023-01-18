@@ -1,0 +1,12 @@
+p:first-child{
+    color: red;
+}
+
+p:last-child{
+    color: pink;
+}
+
+li:nth-child(odd)
+{
+    color: blue;
+}
